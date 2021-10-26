@@ -1,4 +1,4 @@
-# Flutter-awesome-bottom-navigati
+# Flutter-awesome-bottom-navigat
 <h1>🐱‍👤 Fast code and awesome design-ui for flutter navigation bar 🔥</h1>
 <hr>
 
